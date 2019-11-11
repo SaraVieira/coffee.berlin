@@ -1,0 +1,748 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5dc9dcf866fc65002c27e641"
+  },
+  "response": {
+    "venue": {
+      "id": "5211b80711d28272e0a6a49b",
+      "name": "Silo Coffee",
+      "contact": {
+        "twitter": "siloberlin",
+        "instagram": "silocoffee",
+        "facebook": "497764156939965",
+        "facebookUsername": "silocoffee",
+        "facebookName": "Silo Coffee"
+      },
+      "location": {
+        "address": "Gabriel-Max-Str. 4",
+        "lat": 52.51007657319032,
+        "lng": 13.458171868432359,
+        "labeledLatLngs": [
+          {
+            "label": "display",
+            "lat": 52.51007657319032,
+            "lng": 13.458171868432359
+          }
+        ],
+        "postalCode": "10245",
+        "cc": "DE",
+        "neighborhood": "Boxhagener Kiez",
+        "city": "Berlin",
+        "state": "Berlin",
+        "country": "Deutschland",
+        "formattedAddress": [
+          "Gabriel-Max-Str. 4",
+          "10245 Berlin",
+          "Deutschland"
+        ]
+      },
+      "canonicalUrl": "https://foursquare.com/siloberlin",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1e0931735",
+          "name": "Coffee Shop",
+          "pluralName": "Coffee Shops",
+          "shortName": "Coffee Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          },
+          "primary": true
+        },
+        {
+          "id": "4bf58dd8d48988d143941735",
+          "name": "Breakfast Spot",
+          "pluralName": "Breakfast Spots",
+          "shortName": "Breakfast",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "verified": true,
+      "stats": {
+        "tipCount": 397
+      },
+      "url": "http://www.silo-coffee.com",
+      "price": {
+        "tier": 1,
+        "message": "Cheap",
+        "currency": "€"
+      },
+      "likes": {
+        "count": 1188,
+        "groups": [
+          {
+            "type": "others",
+            "count": 1188,
+            "items": []
+          }
+        ],
+        "summary": "1188 Likes"
+      },
+      "dislike": false,
+      "ok": false,
+      "rating": 8.6,
+      "ratingColor": "73CF42",
+      "ratingSignals": 1685,
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "specials": {
+        "count": 0,
+        "items": []
+      },
+      "photos": {
+        "count": 590,
+        "groups": [
+          {
+            "type": "venue",
+            "name": "Venue photos",
+            "count": 590,
+            "items": [
+              {
+                "id": "54f4d3f111d27c6335a67506",
+                "createdAt": 1425331185,
+                "source": {
+                  "name": "Foursquare Web",
+                  "url": "https://foursquare.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/70980711_mu4sGsTo3OwqI4tzUvtoF4BwFZwZTxgfp5A1NxcT13g.jpg",
+                "width": 720,
+                "height": 960,
+                "user": {
+                  "id": "70980711",
+                  "firstName": "Silo Coffee",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/70980711-TLU03BNJJPYSMU3G.jpg"
+                  },
+                  "type": "venuePage",
+                  "venue": {
+                    "id": "5211b80711d28272e0a6a49b"
+                  }
+                },
+                "visibility": "public"
+              }
+            ]
+          }
+        ]
+      },
+      "venuePage": {
+        "id": "70980711"
+      },
+      "reasons": {
+        "count": 1,
+        "items": [
+          {
+            "summary": "Lots of people like this place",
+            "type": "general",
+            "reasonName": "rawLikesReason"
+          }
+        ]
+      },
+      "description": "A specialty coffee shop in Friedrichshain, Berlin. Home of Fjord Coffee & Serving up vibrant brunch all day.",
+      "storeId": "",
+      "page": {
+        "user": {
+          "id": "70980711",
+          "firstName": "Silo Coffee",
+          "gender": "none",
+          "photo": {
+            "prefix": "https://fastly.4sqi.net/img/user/",
+            "suffix": "/70980711-TLU03BNJJPYSMU3G.jpg"
+          },
+          "type": "venuePage",
+          "venue": {
+            "id": "5211b80711d28272e0a6a49b"
+          },
+          "tips": {
+            "count": 1
+          },
+          "lists": {
+            "groups": [
+              {
+                "type": "created",
+                "count": 2,
+                "items": []
+              }
+            ]
+          },
+          "homeCity": "Berlin",
+          "bio": "",
+          "contact": {
+            "twitter": "siloberlin"
+          }
+        }
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "createdAt": 1376892935,
+      "tips": {
+        "count": 397,
+        "groups": [
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 397,
+            "items": [
+              {
+                "id": "5414515d498e9aad76ebf654",
+                "createdAt": 1410617693,
+                "text": "Good cappuccinos, and a few craft beers available. Plenty of seating out back, so don't worry if it looks full from the street!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5414515d498e9aad76ebf654",
+                "lang": "en",
+                "likes": {
+                  "count": 17,
+                  "groups": [
+                    {
+                      "type": "others",
+                      "count": 17,
+                      "items": []
+                    }
+                  ],
+                  "summary": "17 likes"
+                },
+                "logView": true,
+                "agreeCount": 17,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 0
+                },
+                "user": {
+                  "id": "86598631",
+                  "firstName": "Ashok",
+                  "lastName": "Fernandez",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/86598631-Y1ZRV2IVXMZUXKFS.jpg"
+                  }
+                },
+                "authorInteractionType": "liked"
+              }
+            ]
+          }
+        ]
+      },
+      "shortUrl": "http://4sq.com/1eWcTj9",
+      "timeZone": "Europe/Berlin",
+      "listed": {
+        "count": 2626,
+        "groups": [
+          {
+            "type": "others",
+            "name": "Lists from other people",
+            "count": 2626,
+            "items": [
+              {
+                "id": "4e501313d22daf51d27f6f6e",
+                "name": "Berlin Friedrichshain favs",
+                "description": "Favorite spots in Berlin Friedrichshain, cafes, restaurants, clubs and bars.",
+                "type": "others",
+                "user": {
+                  "id": "60228",
+                  "firstName": "Marjolein",
+                  "lastName": "van der Kolk",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/60228-QARVCN2DUWO2LOVP.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/berlijnblog/list/berlin-friedrichshain-favs",
+                "canonicalUrl": "https://foursquare.com/berlijnblog/list/berlin-friedrichshain-favs",
+                "createdAt": 1313870611,
+                "updatedAt": 1392562146,
+                "photo": {
+                  "id": "4e5536c0aeb7b18559db7182",
+                  "createdAt": 1314207424,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/JRPEFRB5OU5AKT1OFX4JIRKSPR2K4NGERIOQW1VQQRF2D0FY.jpg",
+                  "width": 720,
+                  "height": 540,
+                  "user": {
+                    "id": "60228",
+                    "firstName": "Marjolein",
+                    "lastName": "van der Kolk",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/60228-QARVCN2DUWO2LOVP.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 89
+                },
+                "listItems": {
+                  "count": 54,
+                  "items": [
+                    {
+                      "id": "v5211b80711d28272e0a6a49b",
+                      "createdAt": 1382888923
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "5127af6ee4b08146c1698e03",
+                "name": "boschcoffee",
+                "description": "Hier gibt es meine Empfehlungen rund um das Thema Kaffee: #boschcoffee.",
+                "type": "others",
+                "user": {
+                  "id": "129681",
+                  "firstName": "bosch",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/129681_dCdbAkeE_CUCF1wX7x8SVPm7UU0YVQ32PJNHT6OaFERJR2xbt6QWKAf_FL7A9LJTVQ6f0NgsB.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/bosch/list/boschcoffee",
+                "canonicalUrl": "https://foursquare.com/bosch/list/boschcoffee",
+                "createdAt": 1361555310,
+                "updatedAt": 1523183872,
+                "photo": {
+                  "id": "526f8c94498e9c7b6bb7f579",
+                  "createdAt": 1383042196,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/129681_WttWNzWfbvvRu5KJ4RsZjfas9dVCiBCXMas90Hw9mYc.jpg",
+                  "width": 640,
+                  "height": 640,
+                  "user": {
+                    "id": "129681",
+                    "firstName": "bosch",
+                    "gender": "male",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/129681_dCdbAkeE_CUCF1wX7x8SVPm7UU0YVQ32PJNHT6OaFERJR2xbt6QWKAf_FL7A9LJTVQ6f0NgsB.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 186
+                },
+                "listItems": {
+                  "count": 76,
+                  "items": [
+                    {
+                      "id": "t5300d34e11d2746a54761988",
+                      "createdAt": 1384751192,
+                      "photo": {
+                        "id": "52e8daf9498e54ac1d2de609",
+                        "createdAt": 1390992121,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/2167321_t38cNz1pqrbSyXtT0d6p3Z1C86z6h86HHk74TFlj9MU.jpg",
+                        "width": 540,
+                        "height": 960,
+                        "user": {
+                          "id": "2167321",
+                          "firstName": "John",
+                          "lastName": "Marchant",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/2167321-2AGNTOZSUXRJGCCP"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "4e4e37be18a8af30fd731db8",
+                "name": "das frühstück",
+                "description": "",
+                "type": "others",
+                "user": {
+                  "id": "2681286",
+                  "firstName": "Nina",
+                  "lastName": "Mica",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/2681286-EVEBQ2PYJCH21RLO.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/user/2681286/list/das-fr%C3%BChst%C3%BCck",
+                "canonicalUrl": "https://foursquare.com/user/2681286/list/das-fr%C3%BChst%C3%BCck",
+                "createdAt": 1313748926,
+                "updatedAt": 1553499583,
+                "photo": {
+                  "id": "504b2895e4b08a4f68e1d025",
+                  "createdAt": 1347102869,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/hqjLXlJZm1bukd_OFhqpBx4o3_wTstiqhpHjseVi_JE.jpg",
+                  "width": 720,
+                  "height": 720,
+                  "user": {
+                    "id": "24113894",
+                    "firstName": "Jelena",
+                    "lastName": "Radic",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/24113894-G2ILNN0ZS2USTBLP.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 87
+                },
+                "listItems": {
+                  "count": 35,
+                  "items": [
+                    {
+                      "id": "v5211b80711d28272e0a6a49b",
+                      "createdAt": 1440362509
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "4ed4283ee5faa5ec072a67c1",
+                "name": "Berlin",
+                "description": "",
+                "type": "others",
+                "user": {
+                  "id": "6396975",
+                  "firstName": "Cizenbayan",
+                  "lastName": "Elif Tanverdi",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/6396975-ZBJMKM40PS0WKPEX.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/cizenbayan/list/berlin",
+                "canonicalUrl": "https://foursquare.com/cizenbayan/list/berlin",
+                "createdAt": 1322526782,
+                "updatedAt": 1531232254,
+                "photo": {
+                  "id": "506944c0e889b399a8865932",
+                  "createdAt": 1349076160,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/6396975_vuovVsQJ-SUI5lwGEQfY1CxzLhDKsV4c_pI1PcHa2RU.jpg",
+                  "width": 3072,
+                  "height": 1728,
+                  "user": {
+                    "id": "6396975",
+                    "firstName": "Cizenbayan",
+                    "lastName": "Elif Tanverdi",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/6396975-ZBJMKM40PS0WKPEX.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 156
+                },
+                "listItems": {
+                  "count": 195,
+                  "items": [
+                    {
+                      "id": "v5211b80711d28272e0a6a49b",
+                      "createdAt": 1501666465
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "hours": {
+        "status": "Closed until 8:30 AM tomorrow",
+        "richStatus": {
+          "entities": [],
+          "text": "Closed until 8:30 AM tomorrow"
+        },
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon–Fri",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "8:30 AM–5:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat–Sun",
+            "open": [
+              {
+                "renderedTime": "9:30 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "popular": {
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "timeframes": [
+          {
+            "days": "Today",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "9:00 AM–4:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Tue–Wed",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–3:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Thu–Fri",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–5:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–7:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sun",
+            "open": [
+              {
+                "renderedTime": "10:00 AM–7:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": {
+        "count": 0,
+        "items": []
+      },
+      "inbox": {
+        "count": 0,
+        "items": []
+      },
+      "attributes": {
+        "groups": [
+          {
+            "type": "price",
+            "name": "Price",
+            "summary": "€",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Price",
+                "displayValue": "€",
+                "priceTier": 1
+              }
+            ]
+          },
+          {
+            "type": "reservations",
+            "name": "Reservations",
+            "count": 3,
+            "items": [
+              {
+                "displayName": "Reservations",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "payments",
+            "name": "Credit Cards",
+            "summary": "Credit Cards",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Credit Cards",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "outdoorSeating",
+            "name": "Outdoor Seating",
+            "summary": "Outdoor Seating",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Outdoor Seating",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "music",
+            "name": "Music",
+            "summary": "Music",
+            "count": 3,
+            "items": [
+              {
+                "displayName": "Music",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "wifi",
+            "name": "Wi-Fi",
+            "summary": "Free Wi-Fi",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wi-Fi",
+                "displayValue": "Free"
+              }
+            ]
+          },
+          {
+            "type": "serves",
+            "name": "Menus",
+            "summary": "Lunch, Brunch & more",
+            "count": 8,
+            "items": [
+              {
+                "displayName": "Breakfast",
+                "displayValue": "Breakfast"
+              },
+              {
+                "displayName": "Brunch",
+                "displayValue": "Brunch"
+              },
+              {
+                "displayName": "Lunch",
+                "displayValue": "Lunch"
+              }
+            ]
+          },
+          {
+            "type": "drinks",
+            "name": "Drinks",
+            "summary": "Beer & Wine",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Beer",
+                "displayValue": "Beer"
+              },
+              {
+                "displayName": "Wine",
+                "displayValue": "Wine"
+              }
+            ]
+          },
+          {
+            "type": "diningOptions",
+            "name": "Dining Options",
+            "summary": "Table Service & Take-out",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Table Service",
+                "displayValue": "Table Service"
+              },
+              {
+                "displayName": "Take-out",
+                "displayValue": "Take-out"
+              },
+              {
+                "displayName": "Delivery",
+                "displayValue": "No Delivery"
+              }
+            ]
+          },
+          {
+            "type": "restroom",
+            "name": "Restroom",
+            "summary": "Restroom",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Restroom",
+                "displayValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      "bestPhoto": {
+        "id": "54f4d3f111d27c6335a67506",
+        "createdAt": 1425331185,
+        "source": {
+          "name": "Foursquare Web",
+          "url": "https://foursquare.com"
+        },
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/70980711_mu4sGsTo3OwqI4tzUvtoF4BwFZwZTxgfp5A1NxcT13g.jpg",
+        "width": 720,
+        "height": 960,
+        "visibility": "public"
+      },
+      "colors": {
+        "highlightColor": {
+          "photoId": "54f4d3f111d27c6335a67506",
+          "value": -7340016
+        },
+        "highlightTextColor": {
+          "photoId": "54f4d3f111d27c6335a67506",
+          "value": -1
+        },
+        "algoVersion": 3
+      }
+    }
+  }
+}

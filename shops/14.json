@@ -1,0 +1,689 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5dc9dd446bdee6002c6affc5"
+  },
+  "response": {
+    "venue": {
+      "id": "52da57eb11d289d9041e87ab",
+      "name": "Roamers",
+      "contact": {
+        "facebook": "138273719634671",
+        "facebookUsername": "RoamersBerlin",
+        "facebookName": "Roamers"
+      },
+      "location": {
+        "address": "Pannierstr. 64",
+        "lat": 52.48543195769766,
+        "lng": 13.429414431378694,
+        "labeledLatLngs": [
+          {
+            "label": "display",
+            "lat": 52.48543195769766,
+            "lng": 13.429414431378694
+          }
+        ],
+        "postalCode": "12047",
+        "cc": "DE",
+        "city": "Berlin",
+        "state": "Berlin",
+        "country": "Deutschland",
+        "formattedAddress": ["Pannierstr. 64", "12047 Berlin", "Deutschland"]
+      },
+      "canonicalUrl": "https://foursquare.com/v/roamers/52da57eb11d289d9041e87ab",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1e0931735",
+          "name": "Coffee Shop",
+          "pluralName": "Coffee Shops",
+          "shortName": "Coffee Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          },
+          "primary": true
+        },
+        {
+          "id": "4bf58dd8d48988d143941735",
+          "name": "Breakfast Spot",
+          "pluralName": "Breakfast Spots",
+          "shortName": "Breakfast",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "verified": false,
+      "stats": {
+        "tipCount": 313
+      },
+      "url": "http://roamersberlin.tumblr.com",
+      "price": {
+        "tier": 2,
+        "message": "Moderate",
+        "currency": "€"
+      },
+      "likes": {
+        "count": 905,
+        "groups": [
+          {
+            "type": "others",
+            "count": 905,
+            "items": []
+          }
+        ],
+        "summary": "905 Likes"
+      },
+      "dislike": false,
+      "ok": false,
+      "rating": 8.5,
+      "ratingColor": "73CF42",
+      "ratingSignals": 1268,
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "specials": {
+        "count": 0,
+        "items": []
+      },
+      "photos": {
+        "count": 439,
+        "groups": [
+          {
+            "type": "venue",
+            "name": "Venue photos",
+            "count": 439,
+            "items": [
+              {
+                "id": "59833be601559a531f054645",
+                "createdAt": 1501772774,
+                "source": {
+                  "name": "Swarm for iOS",
+                  "url": "https://www.swarmapp.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/40671153_LQSJ-X9VWEgRtanYKXxpxJY1My-TgNUhBt534Ijj5hQ.jpg",
+                "width": 1440,
+                "height": 1440,
+                "user": {
+                  "id": "40671153",
+                  "firstName": "Ksusha",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/40671153-HROAYDRDOYVAKPWF.jpg"
+                  }
+                },
+                "visibility": "public"
+              }
+            ]
+          }
+        ]
+      },
+      "reasons": {
+        "count": 1,
+        "items": [
+          {
+            "summary": "Lots of people like this place",
+            "type": "general",
+            "reasonName": "rawLikesReason"
+          }
+        ]
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "createdAt": 1390041067,
+      "tips": {
+        "count": 313,
+        "groups": [
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 313,
+            "items": [
+              {
+                "id": "545602e9498e51a8badbcca9",
+                "createdAt": 1414922985,
+                "text": "Short but delicious finger-food options for a quick meal: veggie sandwiches, avocado toast, carrot cake, smoothies & poached eggs ...",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/545602e9498e51a8badbcca9",
+                "lang": "en",
+                "likes": {
+                  "count": 14,
+                  "groups": [
+                    {
+                      "type": "others",
+                      "count": 14,
+                      "items": []
+                    }
+                  ],
+                  "summary": "14 likes"
+                },
+                "logView": true,
+                "agreeCount": 14,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 6
+                },
+                "user": {
+                  "id": "9337194",
+                  "firstName": "Krıstófer-Þórır",
+                  "lastName": "D.",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/9337194_j6bVCpCx_clNw9Ps2qIADEI4yi1eyRdMPM7LPdu0RmN94u0gUQS9lWtOBHznfFTB_-J4gnm0Y.jpg"
+                  }
+                },
+                "authorInteractionType": "liked"
+              }
+            ]
+          }
+        ]
+      },
+      "shortUrl": "http://4sq.com/1gZj0WC",
+      "timeZone": "Europe/Berlin",
+      "listed": {
+        "count": 3003,
+        "groups": [
+          {
+            "type": "others",
+            "name": "Lists from other people",
+            "count": 3003,
+            "items": [
+              {
+                "id": "571a7858498e0095dd4408bb",
+                "name": "Travel Guide to Berlin",
+                "description": "",
+                "type": "others",
+                "user": {
+                  "id": "23438729",
+                  "firstName": "Foursquare City Guide",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/23438729-TODURDIUDUMY4JF5.png"
+                  },
+                  "type": "page"
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/foursquare/list/travel-guide-to-berlin",
+                "canonicalUrl": "https://foursquare.com/foursquare/list/travel-guide-to-berlin",
+                "createdAt": 1461352536,
+                "updatedAt": 1488922694,
+                "photo": {
+                  "id": "566dac01498e266e0ed29a70",
+                  "createdAt": 1450028033,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/1832563_gjrafSbQktsLJGFRMuifyk7dgTnhKcer2rt1YvYxhZo.jpg",
+                  "width": 1080,
+                  "height": 1080,
+                  "user": {
+                    "id": "1832563",
+                    "firstName": "Juliana",
+                    "lastName": "Natal",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/1832563-SI0VW2ZTSRJBDBWN.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "logView": true,
+                "guideType": "itinerary",
+                "guide": true,
+                "followers": {
+                  "count": 864
+                },
+                "listItems": {
+                  "count": 38,
+                  "items": [
+                    {
+                      "id": "t56ca0687498e1a833be2a3af",
+                      "createdAt": 1461354500,
+                      "photo": {
+                        "id": "568465c5498eda806f11adda",
+                        "createdAt": 1451517381,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/149047_GhhzGtL5zPP2Obc_uvrDxJJWeg07rvk59e_BXV5CFwY.jpg",
+                        "width": 1440,
+                        "height": 1920,
+                        "user": {
+                          "id": "149047",
+                          "firstName": "Eduardo",
+                          "lastName": "Assunção",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/149047-53UFLOQN1UT43DL5.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "4fc4d525e4b0829fe1164c31",
+                "name": "Berlin - It's time for brunch",
+                "description": "Brunch or a good breakfast - don't know where to escape to breakfast heaven in Berlin? Hang out at the best brunch venues in town and relax in the sun- it's weekend, you deserve it!",
+                "type": "others",
+                "user": {
+                  "id": "27559531",
+                  "firstName": "Vandenberg",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/27559531-BVLXDH1YWJH1RHV2.jpg"
+                  },
+                  "type": "page"
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/p/vandenberg/27559531/list/berlin--its-time-for-brunch",
+                "canonicalUrl": "https://foursquare.com/p/vandenberg/27559531/list/berlin--its-time-for-brunch",
+                "createdAt": 1338299685,
+                "updatedAt": 1443434191,
+                "photo": {
+                  "id": "51d582c4498ec882741de007",
+                  "createdAt": 1372947140,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/26694220_F9o5E0hTujhke4XDyyZlMwa22JGWYDpvJGPprfpZesc.jpg",
+                  "width": 960,
+                  "height": 720,
+                  "user": {
+                    "id": "26694220",
+                    "firstName": "Mrs.",
+                    "lastName": "Nufnuf",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/QSUJGHG5BWVN1H5Y.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "logView": true,
+                "followers": {
+                  "count": 163
+                },
+                "listItems": {
+                  "count": 62,
+                  "items": [
+                    {
+                      "id": "v52da57eb11d289d9041e87ab",
+                      "createdAt": 1443434101,
+                      "photo": {
+                        "id": "55019b2f498e18e461dc8a44",
+                        "createdAt": 1426168623,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/10196434_hYUieKeN6Bq8YTTf-aDvvESmu7sPNnLnsK9a09DwfwU.jpg",
+                        "width": 1920,
+                        "height": 1440,
+                        "user": {
+                          "id": "10196434",
+                          "firstName": "Rebecca",
+                          "lastName": "I",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/10196434-RMHRSGIQSGH5DS0I.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "4e9d4d42b6348df6f712543c",
+                "name": "Free Wifi in Berlin",
+                "description": "",
+                "type": "others",
+                "user": {
+                  "id": "14700819",
+                  "firstName": "Exploring Berlin",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/RDU1MD05JIVPIHBE.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/user/14700819/list/free-wifi-in-berlin",
+                "canonicalUrl": "https://foursquare.com/user/14700819/list/free-wifi-in-berlin",
+                "createdAt": 1318931778,
+                "updatedAt": 1424518188,
+                "followers": {
+                  "count": 184
+                },
+                "listItems": {
+                  "count": 39,
+                  "items": [
+                    {
+                      "id": "v52da57eb11d289d9041e87ab",
+                      "createdAt": 1424518188
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "50377103e4b0282c9e4a9fef",
+                "name": "Berlin, baby!",
+                "description": "Things to eat/drink/do/visit/see in Berlin!",
+                "type": "others",
+                "user": {
+                  "id": "521580",
+                  "firstName": "Amaury",
+                  "lastName": "Van Kenhove",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/CWFPCNYUYCWFX2L0.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/amoorie/list/berlin-baby",
+                "canonicalUrl": "https://foursquare.com/amoorie/list/berlin-baby",
+                "createdAt": 1345810691,
+                "updatedAt": 1490422785,
+                "photo": {
+                  "id": "50262ff5e4b0fe423d2f070b",
+                  "createdAt": 1344679925,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/IYicAin9qUihMF1w2UfbddB-cv-QoiVmpps5ZsXGpU0.jpg",
+                  "width": 612,
+                  "height": 612,
+                  "user": {
+                    "id": "2226181",
+                    "firstName": "diogo",
+                    "lastName": "paulo",
+                    "gender": "male",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/0EIFB5MGG4ZQAUAX.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 106
+                },
+                "listItems": {
+                  "count": 155,
+                  "items": [
+                    {
+                      "id": "v52da57eb11d289d9041e87ab",
+                      "createdAt": 1424680245
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "hours": {
+        "status": "Closed until 9:30 AM tomorrow",
+        "richStatus": {
+          "entities": [],
+          "text": "Closed until 9:30 AM tomorrow"
+        },
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Tue–Fri",
+            "open": [
+              {
+                "renderedTime": "9:30 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat–Sun",
+            "open": [
+              {
+                "renderedTime": "10:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "popular": {
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "timeframes": [
+          {
+            "days": "Today",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "8:00 AM–9:00 AM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Tue",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–4:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Wed",
+            "open": [
+              {
+                "renderedTime": "8:00 AM–3:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Thu",
+            "open": [
+              {
+                "renderedTime": "8:00 AM–4:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Fri",
+            "open": [
+              {
+                "renderedTime": "8:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat",
+            "open": [
+              {
+                "renderedTime": "10:00 AM–5:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sun",
+            "open": [
+              {
+                "renderedTime": "10:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": {
+        "count": 0,
+        "items": []
+      },
+      "inbox": {
+        "count": 0,
+        "items": []
+      },
+      "attributes": {
+        "groups": [
+          {
+            "type": "price",
+            "name": "Price",
+            "summary": "€€",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Price",
+                "displayValue": "€€",
+                "priceTier": 2
+              }
+            ]
+          },
+          {
+            "type": "reservations",
+            "name": "Reservations",
+            "count": 3,
+            "items": [
+              {
+                "displayName": "Reservations",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "payments",
+            "name": "Credit Cards",
+            "summary": "No Credit Cards",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Credit Cards",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "outdoorSeating",
+            "name": "Outdoor Seating",
+            "summary": "Outdoor Seating",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Outdoor Seating",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "wifi",
+            "name": "Wi-Fi",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wi-Fi",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "serves",
+            "name": "Menus",
+            "summary": "Breakfast & Brunch",
+            "count": 8,
+            "items": [
+              {
+                "displayName": "Breakfast",
+                "displayValue": "Breakfast"
+              },
+              {
+                "displayName": "Brunch",
+                "displayValue": "Brunch"
+              }
+            ]
+          },
+          {
+            "type": "drinks",
+            "name": "Drinks",
+            "summary": "Beer, Wine & Cocktails",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Beer",
+                "displayValue": "Beer"
+              },
+              {
+                "displayName": "Wine",
+                "displayValue": "Wine"
+              },
+              {
+                "displayName": "Cocktails",
+                "displayValue": "Cocktails"
+              }
+            ]
+          },
+          {
+            "type": "diningOptions",
+            "name": "Dining Options",
+            "summary": "Delivery",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Delivery",
+                "displayValue": "Delivery"
+              }
+            ]
+          }
+        ]
+      },
+      "bestPhoto": {
+        "id": "59833be601559a531f054645",
+        "createdAt": 1501772774,
+        "source": {
+          "name": "Swarm for iOS",
+          "url": "https://www.swarmapp.com"
+        },
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/40671153_LQSJ-X9VWEgRtanYKXxpxJY1My-TgNUhBt534Ijj5hQ.jpg",
+        "width": 1440,
+        "height": 1440,
+        "visibility": "public"
+      },
+      "colors": {
+        "highlightColor": {
+          "photoId": "59833be601559a531f054645",
+          "value": -13092848
+        },
+        "highlightTextColor": {
+          "photoId": "59833be601559a531f054645",
+          "value": -1
+        },
+        "algoVersion": 3
+      }
+    }
+  }
+}

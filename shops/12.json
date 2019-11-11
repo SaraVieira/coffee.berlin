@@ -1,0 +1,686 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5dc9dc8f724750002c328e7f"
+  },
+  "response": {
+    "venue": {
+      "id": "4eea5e33a17ce863c4d4c3d3",
+      "name": "Chapter One",
+      "contact": {
+        "phone": "+493025922799",
+        "formattedPhone": "+49 30 25922799",
+        "facebook": "238497122875204",
+        "facebookName": "Chapter One Coffee Berlin"
+      },
+      "location": {
+        "address": "Mittenwalder Str. 30",
+        "lat": 52.48976163897703,
+        "lng": 13.395976072085904,
+        "labeledLatLngs": [
+          {
+            "label": "display",
+            "lat": 52.48976163897703,
+            "lng": 13.395976072085904
+          }
+        ],
+        "postalCode": "10961",
+        "cc": "DE",
+        "city": "Berlin",
+        "state": "Berlin",
+        "country": "Deutschland",
+        "formattedAddress": [
+          "Mittenwalder Str. 30",
+          "10961 Berlin",
+          "Deutschland"
+        ]
+      },
+      "canonicalUrl": "https://foursquare.com/v/chapter-one/4eea5e33a17ce863c4d4c3d3",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1e0931735",
+          "name": "Coffee Shop",
+          "pluralName": "Coffee Shops",
+          "shortName": "Coffee Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          },
+          "primary": true
+        }
+      ],
+      "verified": false,
+      "stats": {
+        "tipCount": 168
+      },
+      "url": "http://www.chapter-one-coffee.com",
+      "price": {
+        "tier": 2,
+        "message": "Moderate",
+        "currency": "€"
+      },
+      "likes": {
+        "count": 587,
+        "groups": [
+          {
+            "type": "others",
+            "count": 587,
+            "items": []
+          }
+        ],
+        "summary": "587 Likes"
+      },
+      "dislike": false,
+      "ok": false,
+      "rating": 9.2,
+      "ratingColor": "00B551",
+      "ratingSignals": 759,
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "specials": {
+        "count": 0,
+        "items": []
+      },
+      "photos": {
+        "count": 300,
+        "groups": [
+          {
+            "type": "venue",
+            "name": "Venue photos",
+            "count": 300,
+            "items": [
+              {
+                "id": "516086bce4b0fe145b09c79c",
+                "createdAt": 1365280444,
+                "source": {
+                  "name": "Instagram",
+                  "url": "http://instagram.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/591987_Snxf9h1pfW-I4eNcW2S65lx22PbFDOgPG_EZknI5ZEU.jpg",
+                "width": 612,
+                "height": 612,
+                "user": {
+                  "id": "591987",
+                  "firstName": "Simon",
+                  "lastName": "Lewthwaite",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/591987-AEDCWP0D13K1YZUL.jpg"
+                  }
+                },
+                "visibility": "public"
+              }
+            ]
+          }
+        ]
+      },
+      "reasons": {
+        "count": 1,
+        "items": [
+          {
+            "summary": "Lots of people like this place",
+            "type": "general",
+            "reasonName": "rawLikesReason"
+          }
+        ]
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "createdAt": 1323982387,
+      "tips": {
+        "count": 168,
+        "groups": [
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 168,
+            "items": [
+              {
+                "id": "5096de45e4b02645e067cc3c",
+                "createdAt": 1352064581,
+                "text": "Super skilled baristas and interesting coffees from various German roasteries in the grinder. Top notch!",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/5096de45e4b02645e067cc3c",
+                "lang": "en",
+                "likes": {
+                  "count": 7,
+                  "groups": [
+                    {
+                      "type": "others",
+                      "count": 7,
+                      "items": [
+                        {
+                          "id": "310637",
+                          "firstName": "Timo",
+                          "lastName": "Laak",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/310637-1BYUJY5S0RIGUDME"
+                          }
+                        },
+                        {
+                          "id": "51041173",
+                          "firstName": "Siobhán",
+                          "lastName": "O'Callaghan",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/51041173-LU41IU5MUZUCOVYA.jpg"
+                          }
+                        },
+                        {
+                          "id": "115271",
+                          "firstName": "Jacqueline",
+                          "lastName": "L.",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/LV5JXAUHKDWZKRAD.jpg"
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "summary": "7 likes"
+                },
+                "logView": true,
+                "editedAt": 1352064741,
+                "agreeCount": 7,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 7
+                },
+                "user": {
+                  "id": "4564053",
+                  "firstName": "Jaromír",
+                  "lastName": "Hanzal",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/-OLAUCCVZBN10ESFF.jpg"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "shortUrl": "http://4sq.com/rRCCqP",
+      "timeZone": "Europe/Berlin",
+      "listed": {
+        "count": 2236,
+        "groups": [
+          {
+            "type": "others",
+            "name": "Lists from other people",
+            "count": 2236,
+            "items": [
+              {
+                "id": "4f6aa442e4b0b8a882af321b",
+                "name": "/r/coffee",
+                "description": "The best coffee shops on earth, all in one list.\n\nTo the redditors of /r/coffee just add me as a friend and you can add your own favorite places. I envision this as a list for third wave coffee shops.",
+                "type": "others",
+                "user": {
+                  "id": "5807821",
+                  "firstName": "Jason",
+                  "lastName": "Pope",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/03ZLJGPHPJIHI5PA.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/cowholio4/list/rcoffee",
+                "canonicalUrl": "https://foursquare.com/cowholio4/list/rcoffee",
+                "createdAt": 1332388930,
+                "updatedAt": 1509557157,
+                "photo": {
+                  "id": "4f0f20b7e4b0129c74ae8b4f",
+                  "createdAt": 1326391479,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/0FMDYBCT5H5EPHZCECRKN3WQCLLKMMXMCCAHPZWB1KAPPFVH.jpg",
+                  "width": 540,
+                  "height": 720,
+                  "user": {
+                    "id": "5807821",
+                    "firstName": "Jason",
+                    "lastName": "Pope",
+                    "gender": "none",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/03ZLJGPHPJIHI5PA.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 159
+                },
+                "listItems": {
+                  "count": 212,
+                  "items": [
+                    {
+                      "id": "t5096de45e4b02645e067cc3c",
+                      "createdAt": 1378322455
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "4f81c367e4b0fc8b19c40358",
+                "name": "Berlin's best breakfast spots",
+                "description": "",
+                "type": "others",
+                "user": {
+                  "id": "5829105",
+                  "firstName": "Lena",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/5829105_LZzh8aGt_DMfnRF79q7VOMDksM5bv3g1sO5egH6kmjXU7DMhmBXF1Ap2amLk2lfuwZLQiUXuE.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/user/5829105/list/berlins-best-breakfast-spots",
+                "canonicalUrl": "https://foursquare.com/user/5829105/list/berlins-best-breakfast-spots",
+                "createdAt": 1333904231,
+                "updatedAt": 1518775911,
+                "photo": {
+                  "id": "505844bce4b0dcc7a73fd04b",
+                  "createdAt": 1347962044,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/3144816_r7IaXVTw54oyChzhRuQzWkmNmlbB4-DXh7dM-Yu7GUY.jpg",
+                  "width": 612,
+                  "height": 612,
+                  "user": {
+                    "id": "3144816",
+                    "firstName": "AlenaZ",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/3144816-EJESRAHUYTPHLPYO.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 95
+                },
+                "listItems": {
+                  "count": 57,
+                  "items": [
+                    {
+                      "id": "v4eea5e33a17ce863c4d4c3d3",
+                      "createdAt": 1360933311
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "5127af6ee4b08146c1698e03",
+                "name": "boschcoffee",
+                "description": "Hier gibt es meine Empfehlungen rund um das Thema Kaffee: #boschcoffee.",
+                "type": "others",
+                "user": {
+                  "id": "129681",
+                  "firstName": "bosch",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/129681_dCdbAkeE_CUCF1wX7x8SVPm7UU0YVQ32PJNHT6OaFERJR2xbt6QWKAf_FL7A9LJTVQ6f0NgsB.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/bosch/list/boschcoffee",
+                "canonicalUrl": "https://foursquare.com/bosch/list/boschcoffee",
+                "createdAt": 1361555310,
+                "updatedAt": 1523183872,
+                "photo": {
+                  "id": "526f8c94498e9c7b6bb7f579",
+                  "createdAt": 1383042196,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/129681_WttWNzWfbvvRu5KJ4RsZjfas9dVCiBCXMas90Hw9mYc.jpg",
+                  "width": 640,
+                  "height": 640,
+                  "user": {
+                    "id": "129681",
+                    "firstName": "bosch",
+                    "gender": "male",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/129681_dCdbAkeE_CUCF1wX7x8SVPm7UU0YVQ32PJNHT6OaFERJR2xbt6QWKAf_FL7A9LJTVQ6f0NgsB.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 186
+                },
+                "listItems": {
+                  "count": 76,
+                  "items": [
+                    {
+                      "id": "v4eea5e33a17ce863c4d4c3d3",
+                      "createdAt": 1384750845,
+                      "photo": {
+                        "id": "527f9d9b11d273e83ad9c837",
+                        "createdAt": 1384095131,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/70955718_AnE5ct3uAHIpF316ePJGwvapN4mS3JlGPbTKMziqI6I.jpg",
+                        "width": 720,
+                        "height": 960,
+                        "user": {
+                          "id": "70955718",
+                          "firstName": "Zoe",
+                          "lastName": "Socratous",
+                          "gender": "female",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/L1IUMPXUZSV1LIM2.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "50377103e4b0282c9e4a9fef",
+                "name": "Berlin, baby!",
+                "description": "Things to eat/drink/do/visit/see in Berlin!",
+                "type": "others",
+                "user": {
+                  "id": "521580",
+                  "firstName": "Amaury",
+                  "lastName": "Van Kenhove",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/CWFPCNYUYCWFX2L0.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/amoorie/list/berlin-baby",
+                "canonicalUrl": "https://foursquare.com/amoorie/list/berlin-baby",
+                "createdAt": 1345810691,
+                "updatedAt": 1490422785,
+                "photo": {
+                  "id": "50262ff5e4b0fe423d2f070b",
+                  "createdAt": 1344679925,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/IYicAin9qUihMF1w2UfbddB-cv-QoiVmpps5ZsXGpU0.jpg",
+                  "width": 612,
+                  "height": 612,
+                  "user": {
+                    "id": "2226181",
+                    "firstName": "diogo",
+                    "lastName": "paulo",
+                    "gender": "male",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/0EIFB5MGG4ZQAUAX.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 106
+                },
+                "listItems": {
+                  "count": 155,
+                  "items": [
+                    {
+                      "id": "t506aa7fbe4b0dcfc95024a58",
+                      "createdAt": 1357567359,
+                      "photo": {
+                        "id": "5206324c498e7bbf41e11065",
+                        "createdAt": 1376137804,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/2421_hV9N7nWskUQuGy8kS-8N8Wv-IoMbztPOaWwBynVTtDI.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "2421",
+                          "firstName": "Alper",
+                          "lastName": "Çuğun",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/C0VTVBMJVVJODU2K.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "hours": {
+        "status": "Closed until 9:00 AM tomorrow",
+        "richStatus": {
+          "entities": [],
+          "text": "Closed until 9:00 AM tomorrow"
+        },
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon–Sat",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "9:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sun",
+            "open": [
+              {
+                "renderedTime": "11:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "popular": {
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "timeframes": [
+          {
+            "days": "Today",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM–2:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Tue",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–4:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Wed",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–5:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Thu",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Fri",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–5:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sun",
+            "open": [
+              {
+                "renderedTime": "11:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": {
+        "count": 0,
+        "items": []
+      },
+      "inbox": {
+        "count": 0,
+        "items": []
+      },
+      "attributes": {
+        "groups": [
+          {
+            "type": "price",
+            "name": "Price",
+            "summary": "€€",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Price",
+                "displayValue": "€€",
+                "priceTier": 2
+              }
+            ]
+          },
+          {
+            "type": "payments",
+            "name": "Credit Cards",
+            "summary": "No Credit Cards",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Credit Cards",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "outdoorSeating",
+            "name": "Outdoor Seating",
+            "summary": "Outdoor Seating",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Outdoor Seating",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "wifi",
+            "name": "Wi-Fi",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wi-Fi",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "serves",
+            "name": "Menus",
+            "summary": "Brunch & Lunch",
+            "count": 8,
+            "items": [
+              {
+                "displayName": "Brunch",
+                "displayValue": "Brunch"
+              },
+              {
+                "displayName": "Lunch",
+                "displayValue": "Lunch"
+              }
+            ]
+          }
+        ]
+      },
+      "bestPhoto": {
+        "id": "516086bce4b0fe145b09c79c",
+        "createdAt": 1365280444,
+        "source": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        },
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/591987_Snxf9h1pfW-I4eNcW2S65lx22PbFDOgPG_EZknI5ZEU.jpg",
+        "width": 612,
+        "height": 612,
+        "visibility": "public"
+      },
+      "colors": {
+        "highlightColor": {
+          "photoId": "516086bce4b0fe145b09c79c",
+          "value": -13627368
+        },
+        "highlightTextColor": {
+          "photoId": "516086bce4b0fe145b09c79c",
+          "value": -1
+        },
+        "algoVersion": 3
+      }
+    }
+  }
+}

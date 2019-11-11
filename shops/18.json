@@ -1,0 +1,766 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5dc9dd12a19793003807efa6"
+  },
+  "response": {
+    "venue": {
+      "id": "4faea556e4b0ec82893bbb05",
+      "name": "Nothaft + Seidel",
+      "contact": {
+        "twitter": "nothaftcafe",
+        "instagram": "nothaftseidelcafe",
+        "facebook": "143298665803183",
+        "facebookUsername": "NothaftCafe",
+        "facebookName": "Nothaft Cafe"
+      },
+      "location": {
+        "address": "Schönhauser Allee 43a",
+        "crossStreet": "Danziger Str.",
+        "lat": 52.540269136969584,
+        "lng": 13.412257663002183,
+        "labeledLatLngs": [
+          {
+            "label": "display",
+            "lat": 52.540269136969584,
+            "lng": 13.412257663002183
+          }
+        ],
+        "postalCode": "10435",
+        "cc": "DE",
+        "city": "Berlin",
+        "state": "Berlin",
+        "country": "Deutschland",
+        "formattedAddress": [
+          "Schönhauser Allee 43a (Danziger Str.)",
+          "10435 Berlin",
+          "Deutschland"
+        ]
+      },
+      "canonicalUrl": "https://foursquare.com/nothaftcafe",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d16d941735",
+          "name": "Café",
+          "pluralName": "Cafés",
+          "shortName": "Café",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          },
+          "primary": true
+        },
+        {
+          "id": "4bf58dd8d48988d112941735",
+          "name": "Juice Bar",
+          "pluralName": "Juice Bars",
+          "shortName": "Juice Bar",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "verified": true,
+      "stats": {
+        "tipCount": 172
+      },
+      "url": "http://nothaftcafes.com",
+      "price": {
+        "tier": 1,
+        "message": "Cheap",
+        "currency": "€"
+      },
+      "likes": {
+        "count": 526,
+        "groups": [
+          {
+            "type": "others",
+            "count": 526,
+            "items": []
+          }
+        ],
+        "summary": "526 Likes"
+      },
+      "dislike": false,
+      "ok": false,
+      "rating": 9.0,
+      "ratingColor": "00B551",
+      "ratingSignals": 718,
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "specials": {
+        "count": 0,
+        "items": []
+      },
+      "photos": {
+        "count": 256,
+        "groups": [
+          {
+            "type": "venue",
+            "name": "Venue photos",
+            "count": 256,
+            "items": [
+              {
+                "id": "5002cf2ae4b07c8ae98d499f",
+                "createdAt": 1342361386,
+                "source": {
+                  "name": "Instagram",
+                  "url": "http://instagram.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/HEuXebV0DzCjJ1_XJP0V5v9ARHn8wN4P52wSUK5W3Hc.jpg",
+                "width": 612,
+                "height": 612,
+                "user": {
+                  "id": "4122005",
+                  "firstName": "Paul",
+                  "lastName": "T.",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/05HP1QYBNVEDZSEA.jpg"
+                  }
+                },
+                "visibility": "public"
+              }
+            ]
+          }
+        ]
+      },
+      "venuePage": {
+        "id": "103365601"
+      },
+      "reasons": {
+        "count": 1,
+        "items": [
+          {
+            "summary": "Lots of people like this place",
+            "type": "general",
+            "reasonName": "rawLikesReason"
+          }
+        ]
+      },
+      "description": "Kaffee & Latte Art, selbst gebackene Kuchen, frisch gepresste Säfte, grilled sandwiches; smoothies & fresh pressed juices; free wifi; take away",
+      "storeId": "",
+      "page": {
+        "user": {
+          "id": "103365601",
+          "firstName": "Nothaft + Seidel",
+          "gender": "none",
+          "photo": {
+            "prefix": "https://fastly.4sqi.net/img/user/",
+            "suffix": "/103365601-QMYQHPXHDURE4UKQ.png"
+          },
+          "type": "venuePage",
+          "venue": {
+            "id": "4faea556e4b0ec82893bbb05"
+          },
+          "tips": {
+            "count": 0
+          },
+          "lists": {
+            "groups": [
+              {
+                "type": "created",
+                "count": 2,
+                "items": []
+              }
+            ]
+          },
+          "homeCity": "Berlin",
+          "bio": "",
+          "contact": {
+            "twitter": "nothaftcafe"
+          }
+        }
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "createdAt": 1336845654,
+      "tips": {
+        "count": 172,
+        "groups": [
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 172,
+            "items": [
+              {
+                "id": "54b3c5e9498eba2fbd4a7cac",
+                "createdAt": 1421067753,
+                "text": "wifi: redmonkey",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/54b3c5e9498eba2fbd4a7cac",
+                "lang": "en",
+                "likes": {
+                  "count": 10,
+                  "groups": [
+                    {
+                      "type": "others",
+                      "count": 10,
+                      "items": []
+                    }
+                  ],
+                  "summary": "10 likes"
+                },
+                "logView": true,
+                "agreeCount": 10,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 2
+                },
+                "user": {
+                  "id": "74252",
+                  "firstName": "kosmar",
+                  "lastName": "kosmar",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/74252_1256150522596.jpg"
+                  }
+                },
+                "authorInteractionType": "liked"
+              }
+            ]
+          }
+        ]
+      },
+      "shortUrl": "http://4sq.com/JJovtW",
+      "timeZone": "Europe/Berlin",
+      "listed": {
+        "count": 1187,
+        "groups": [
+          {
+            "type": "others",
+            "name": "Lists from other people",
+            "count": 1187,
+            "items": [
+              {
+                "id": "5056d56ae4b0d505c3f6fee9",
+                "name": "[To-do] Berlin",
+                "description": "",
+                "type": "others",
+                "user": {
+                  "id": "3025307",
+                  "firstName": "Karolina",
+                  "lastName": "Szczur",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/3025307_CH49lPGC_E6fUFYzRITzSvDZ7U9hMcJPwOfl9rTTy8baMl-RtK1fXuKkZwEBcKwAkYQglzXA0"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/fox/list/todo-berlin",
+                "canonicalUrl": "https://foursquare.com/fox/list/todo-berlin",
+                "createdAt": 1347868010,
+                "updatedAt": 1439921876,
+                "photo": {
+                  "id": "504c9a12e4b086b598e7a48e",
+                  "createdAt": 1347197458,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/jLVFaNJ-Mg3dynz-kEY3u6g03NguF9xkIbZt68H70To.jpg",
+                  "width": 720,
+                  "height": 537,
+                  "user": {
+                    "id": "26493108",
+                    "firstName": "Birgit",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/QMAKIPEJA5O3NH0H.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 38
+                },
+                "listItems": {
+                  "count": 200,
+                  "items": [
+                    {
+                      "id": "v4faea556e4b0ec82893bbb05",
+                      "createdAt": 1406924320,
+                      "photo": {
+                        "id": "4ff2e137e4b0da9b4aee3022",
+                        "createdAt": 1341317431,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/Fjm1Ttp-nZ3ymVemT6EsMEdgt4GzuB7tcaav33Jk3n8.jpg",
+                        "width": 612,
+                        "height": 612,
+                        "user": {
+                          "id": "4122005",
+                          "firstName": "Paul",
+                          "lastName": "T.",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/05HP1QYBNVEDZSEA.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "54552272498e18048b407142",
+                "name": "Berlin",
+                "description": "",
+                "type": "others",
+                "user": {
+                  "id": "8552899",
+                  "firstName": "Elena",
+                  "lastName": "Bazu",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/8552899-SAO1OIRTYOFLXY02.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/elenabazu/list/berlin",
+                "canonicalUrl": "https://foursquare.com/elenabazu/list/berlin",
+                "createdAt": 1414865522,
+                "updatedAt": 1547736238,
+                "photo": {
+                  "id": "54ec2da8498e95cb19d411d2",
+                  "createdAt": 1424764328,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/8552899_pooHNfu3FEpaPeFHRdhMa55w-YyitT2i7opbzvSwACA.jpg",
+                  "width": 1440,
+                  "height": 1440,
+                  "user": {
+                    "id": "8552899",
+                    "firstName": "Elena",
+                    "lastName": "Bazu",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/8552899-SAO1OIRTYOFLXY02.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 60
+                },
+                "listItems": {
+                  "count": 69,
+                  "items": [
+                    {
+                      "id": "v4faea556e4b0ec82893bbb05",
+                      "createdAt": 1440953190,
+                      "photo": {
+                        "id": "540ec83c498e5ff890e44dd0",
+                        "createdAt": 1410254908,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/63321018__ywRgD3xs4zNSL_OpGRRL-zPqZr4-auK83fQ82jNiEQ.jpg",
+                        "width": 720,
+                        "height": 720,
+                        "user": {
+                          "id": "63321018",
+                          "firstName": "WSIEFBT",
+                          "gender": "none",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/2NR2LE5SATUTUWNH.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "5031269ae4b04d70bf38c686",
+                "name": "How to: Prenzlauer Berg",
+                "description": "Our essential Prenzlauer Berg. A work in progress.",
+                "type": "others",
+                "user": {
+                  "id": "16645494",
+                  "firstName": "Berlinow",
+                  "gender": "none",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/16645494_NZKygaKK_Sb4y_tae9wd9gmmxFm3zcRIF--8cnoKAHOszRmmFDUUk7S8nARywnmZseBIJoA6i.png"
+                  },
+                  "type": "page"
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/berlinow/list/how-to-prenzlauer-berg",
+                "canonicalUrl": "https://foursquare.com/berlinow/list/how-to-prenzlauer-berg",
+                "createdAt": 1345398426,
+                "updatedAt": 1345484569,
+                "photo": {
+                  "id": "502ac4e2e4b09f620145ce5a",
+                  "createdAt": 1344980194,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/I77ZDff7g8a1C-URL8GRgJt05yh7Yc7GohSRA5QOork.jpg",
+                  "width": 540,
+                  "height": 540,
+                  "user": {
+                    "id": "1986604",
+                    "firstName": "Benedetta Jasmine",
+                    "lastName": "Guetta",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/LKPX1QRDUBL3NJTR.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "logView": true,
+                "followers": {
+                  "count": 148
+                },
+                "listItems": {
+                  "count": 18,
+                  "items": [
+                    {
+                      "id": "v4faea556e4b0ec82893bbb05",
+                      "createdAt": 1345473715,
+                      "photo": {
+                        "id": "5029314ee4b07a366d36135b",
+                        "createdAt": 1344876878,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/PaWmHxQigTXO91ZZfR-c53BZsZndHisZR_2C7DsRdvY.jpg",
+                        "width": 720,
+                        "height": 537,
+                        "user": {
+                          "id": "4738543",
+                          "firstName": "Esbjörn",
+                          "lastName": "Guwallius",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/ZH3USKJYAHA50WVU.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "4e95463dd22df0eb8bac3601",
+                "name": "Best eats in Prenzlauer Berg, Berlin",
+                "description": "Some of the places I regularly eat at around Prenzlauerberg",
+                "type": "others",
+                "user": {
+                  "id": "777945",
+                  "firstName": "Hessam",
+                  "lastName": "Lavi",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/IXMNYDBGMK53EUD4.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": true,
+                "url": "/hessam/list/best-eats-in-prenzlauer-berg-berlin",
+                "canonicalUrl": "https://foursquare.com/hessam/list/best-eats-in-prenzlauer-berg-berlin",
+                "createdAt": 1318405693,
+                "updatedAt": 1573503335,
+                "followers": {
+                  "count": 78
+                },
+                "listItems": {
+                  "count": 37,
+                  "items": [
+                    {
+                      "id": "v4faea556e4b0ec82893bbb05",
+                      "createdAt": 1384099043
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "hours": {
+        "status": "Closed until 8:00 AM tomorrow",
+        "richStatus": {
+          "entities": [],
+          "text": "Closed until 8:00 AM tomorrow"
+        },
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon–Fri",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "8:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat–Sun",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "popular": {
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "timeframes": [
+          {
+            "days": "Today",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "8:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Tue",
+            "open": [
+              {
+                "renderedTime": "8:00 AM–5:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Wed",
+            "open": [
+              {
+                "renderedTime": "8:00 AM–4:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Thu–Fri",
+            "open": [
+              {
+                "renderedTime": "8:00 AM–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat",
+            "open": [
+              {
+                "renderedTime": "9:00 AM–7:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sun",
+            "open": [
+              {
+                "renderedTime": "10:00 AM–7:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": {
+        "count": 0,
+        "items": []
+      },
+      "inbox": {
+        "count": 0,
+        "items": []
+      },
+      "attributes": {
+        "groups": [
+          {
+            "type": "price",
+            "name": "Price",
+            "summary": "€",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Price",
+                "displayValue": "€",
+                "priceTier": 1
+              }
+            ]
+          },
+          {
+            "type": "reservations",
+            "name": "Reservations",
+            "count": 3,
+            "items": [
+              {
+                "displayName": "Reservations",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "payments",
+            "name": "Credit Cards",
+            "summary": "Credit Cards",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Credit Cards",
+                "displayValue": "Yes (incl. NFC Payments & MasterCard)"
+              }
+            ]
+          },
+          {
+            "type": "outdoorSeating",
+            "name": "Outdoor Seating",
+            "summary": "Outdoor Seating",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Outdoor Seating",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "music",
+            "name": "Music",
+            "summary": "Music",
+            "count": 3,
+            "items": [
+              {
+                "displayName": "Music",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "wifi",
+            "name": "Wi-Fi",
+            "summary": "Free Wi-Fi",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wi-Fi",
+                "displayValue": "Free"
+              }
+            ]
+          },
+          {
+            "type": "serves",
+            "name": "Menus",
+            "summary": "Dessert, Breakfast & more",
+            "count": 8,
+            "items": [
+              {
+                "displayName": "Breakfast",
+                "displayValue": "Breakfast"
+              },
+              {
+                "displayName": "Brunch",
+                "displayValue": "Brunch"
+              },
+              {
+                "displayName": "Lunch",
+                "displayValue": "Lunch"
+              },
+              {
+                "displayName": "Dessert",
+                "displayValue": "Dessert"
+              }
+            ]
+          },
+          {
+            "type": "diningOptions",
+            "name": "Dining Options",
+            "summary": "Delivery",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Delivery",
+                "displayValue": "Delivery"
+              }
+            ]
+          },
+          {
+            "type": "restroom",
+            "name": "Restroom",
+            "summary": "Restroom",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Restroom",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "wheelchairAccessible",
+            "name": "Wheelchair Accessible",
+            "summary": "Wheelchair Accessible",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wheelchair Accessible",
+                "displayValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      "bestPhoto": {
+        "id": "5002cf2ae4b07c8ae98d499f",
+        "createdAt": 1342361386,
+        "source": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        },
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/HEuXebV0DzCjJ1_XJP0V5v9ARHn8wN4P52wSUK5W3Hc.jpg",
+        "width": 612,
+        "height": 612,
+        "visibility": "public"
+      },
+      "colors": {
+        "highlightColor": {
+          "photoId": "5002cf2ae4b07c8ae98d499f",
+          "value": -5719888
+        },
+        "highlightTextColor": {
+          "photoId": "5002cf2ae4b07c8ae98d499f",
+          "value": -16777216
+        },
+        "algoVersion": 3
+      }
+    }
+  }
+}

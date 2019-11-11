@@ -1,0 +1,644 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5dc9d726c267e9002be26293"
+  },
+  "response": {
+    "venue": {
+      "id": "50f55c5ee4b04f6ad02f9785",
+      "name": "Companion Coffee",
+      "contact": {
+        "twitter": "companioncoffee",
+        "instagram": "companioncoffeeberlin",
+        "facebook": "317033645062941",
+        "facebookName": "Companion Coffee"
+      },
+      "location": {
+        "address": "Oranienstr. 24",
+        "lat": 52.50114772533567,
+        "lng": 13.421061728053246,
+        "labeledLatLngs": [
+          {
+            "label": "display",
+            "lat": 52.50114772533567,
+            "lng": 13.421061728053246
+          }
+        ],
+        "postalCode": "10999",
+        "cc": "DE",
+        "city": "Berlin",
+        "state": "Berlin",
+        "country": "Deutschland",
+        "formattedAddress": ["Oranienstr. 24", "10999 Berlin", "Deutschland"]
+      },
+      "canonicalUrl": "https://foursquare.com/v/companion-coffee/50f55c5ee4b04f6ad02f9785",
+      "categories": [
+        {
+          "id": "4bf58dd8d48988d1e0931735",
+          "name": "Coffee Shop",
+          "pluralName": "Coffee Shops",
+          "shortName": "Coffee Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          },
+          "primary": true
+        }
+      ],
+      "verified": false,
+      "stats": {
+        "tipCount": 100
+      },
+      "url": "http://companioncoffee.com",
+      "price": {
+        "tier": 2,
+        "message": "Moderate",
+        "currency": "€"
+      },
+      "likes": {
+        "count": 350,
+        "groups": [
+          {
+            "type": "others",
+            "count": 350,
+            "items": []
+          }
+        ],
+        "summary": "350 Likes"
+      },
+      "dislike": false,
+      "ok": false,
+      "rating": 8.5,
+      "ratingColor": "73CF42",
+      "ratingSignals": 470,
+      "allowMenuUrlEdit": true,
+      "beenHere": {
+        "count": 0,
+        "unconfirmedCount": 0,
+        "marked": false,
+        "lastCheckinExpiredAt": 0
+      },
+      "specials": {
+        "count": 0,
+        "items": []
+      },
+      "photos": {
+        "count": 148,
+        "groups": [
+          {
+            "type": "venue",
+            "name": "Venue photos",
+            "count": 148,
+            "items": [
+              {
+                "id": "512373a1e4b02b2abf7c657b",
+                "createdAt": 1361277857,
+                "source": {
+                  "name": "Instagram",
+                  "url": "http://instagram.com"
+                },
+                "prefix": "https://fastly.4sqi.net/img/general/",
+                "suffix": "/2421_EcQ7HoB8JWUYR_Z5q4N3-0Dr6fpOXCsRnPMxmftOz94.jpg",
+                "width": 612,
+                "height": 612,
+                "user": {
+                  "id": "2421",
+                  "firstName": "Alper",
+                  "lastName": "Çuğun",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/C0VTVBMJVVJODU2K.jpg"
+                  }
+                },
+                "visibility": "public"
+              }
+            ]
+          }
+        ]
+      },
+      "reasons": {
+        "count": 1,
+        "items": [
+          {
+            "summary": "Lots of people like this place",
+            "type": "general",
+            "reasonName": "rawLikesReason"
+          }
+        ]
+      },
+      "hereNow": {
+        "count": 0,
+        "summary": "Nobody here",
+        "groups": []
+      },
+      "createdAt": 1358257246,
+      "tips": {
+        "count": 100,
+        "groups": [
+          {
+            "type": "others",
+            "name": "All tips",
+            "count": 100,
+            "items": [
+              {
+                "id": "51349f48e4b0826890e8d9a8",
+                "createdAt": 1362403144,
+                "text": "This is the place where all the other baristas from around Berlin hang out. Nuff said.",
+                "type": "user",
+                "canonicalUrl": "https://foursquare.com/item/51349f48e4b0826890e8d9a8",
+                "lang": "en",
+                "likes": {
+                  "count": 11,
+                  "groups": [
+                    {
+                      "type": "others",
+                      "count": 11,
+                      "items": []
+                    }
+                  ],
+                  "summary": "11 likes"
+                },
+                "logView": true,
+                "agreeCount": 11,
+                "disagreeCount": 0,
+                "todo": {
+                  "count": 4
+                },
+                "user": {
+                  "id": "84352",
+                  "firstName": "Johannes",
+                  "lastName": "Kleske",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/-EEQFWDICR0KGNT1K.png"
+                  }
+                },
+                "authorInteractionType": "liked"
+              }
+            ]
+          }
+        ]
+      },
+      "shortUrl": "http://4sq.com/Y7dnjs",
+      "timeZone": "Europe/Berlin",
+      "listed": {
+        "count": 1365,
+        "groups": [
+          {
+            "type": "others",
+            "name": "Lists from other people",
+            "count": 1365,
+            "items": [
+              {
+                "id": "4fba549fe4b0995f6aad42b7",
+                "name": "X-Berg für Fortgeschrittene",
+                "description": "X-Berg für Fortgeschrittene.",
+                "type": "others",
+                "user": {
+                  "id": "9869500",
+                  "firstName": "Eva",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/9869500_LLvh5tsx_YYALXUSuDQOhYMuFBPn8WyBN4p5d9CeaA5d0skuVlrEyRf9pxtY8lAMduGKgtDwd.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/lippenherz/list/xberg-f%C3%BCr-fortgeschrittene",
+                "canonicalUrl": "https://foursquare.com/lippenherz/list/xberg-f%C3%BCr-fortgeschrittene",
+                "createdAt": 1337611423,
+                "updatedAt": 1542401040,
+                "photo": {
+                  "id": "4fbe61f5e4b00375ef16af5b",
+                  "createdAt": 1337876981,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/DyxHY5ptnhyU0x8ldPmssQQ-353oOrro9HUWQElofl8.jpg",
+                  "width": 612,
+                  "height": 612,
+                  "user": {
+                    "id": "1284334",
+                    "firstName": "Daniel",
+                    "lastName": "Kinast",
+                    "gender": "male",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/1284334-MBWZ5HL5D5MZIZWL.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 71
+                },
+                "listItems": {
+                  "count": 187,
+                  "items": [
+                    {
+                      "id": "v50f55c5ee4b04f6ad02f9785",
+                      "createdAt": 1367969111
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "5127af6ee4b08146c1698e03",
+                "name": "boschcoffee",
+                "description": "Hier gibt es meine Empfehlungen rund um das Thema Kaffee: #boschcoffee.",
+                "type": "others",
+                "user": {
+                  "id": "129681",
+                  "firstName": "bosch",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/129681_dCdbAkeE_CUCF1wX7x8SVPm7UU0YVQ32PJNHT6OaFERJR2xbt6QWKAf_FL7A9LJTVQ6f0NgsB.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/bosch/list/boschcoffee",
+                "canonicalUrl": "https://foursquare.com/bosch/list/boschcoffee",
+                "createdAt": 1361555310,
+                "updatedAt": 1523183872,
+                "photo": {
+                  "id": "526f8c94498e9c7b6bb7f579",
+                  "createdAt": 1383042196,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/129681_WttWNzWfbvvRu5KJ4RsZjfas9dVCiBCXMas90Hw9mYc.jpg",
+                  "width": 640,
+                  "height": 640,
+                  "user": {
+                    "id": "129681",
+                    "firstName": "bosch",
+                    "gender": "male",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/129681_dCdbAkeE_CUCF1wX7x8SVPm7UU0YVQ32PJNHT6OaFERJR2xbt6QWKAf_FL7A9LJTVQ6f0NgsB.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 186
+                },
+                "listItems": {
+                  "count": 76,
+                  "items": [
+                    {
+                      "id": "t53e740c8498e7f629f5dd329",
+                      "createdAt": 1384750865,
+                      "photo": {
+                        "id": "53a551a4498e7e4460f0757b",
+                        "createdAt": 1403343268,
+                        "prefix": "https://fastly.4sqi.net/img/general/",
+                        "suffix": "/129681_UFW8pSEkqHgqTXktTvdhTbLoHamHIjY6pNkaybsaTdA.jpg",
+                        "width": 640,
+                        "height": 640,
+                        "user": {
+                          "id": "129681",
+                          "firstName": "bosch",
+                          "gender": "male",
+                          "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/129681_dCdbAkeE_CUCF1wX7x8SVPm7UU0YVQ32PJNHT6OaFERJR2xbt6QWKAf_FL7A9LJTVQ6f0NgsB.jpg"
+                          }
+                        },
+                        "visibility": "public"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "4ed4283ee5faa5ec072a67c1",
+                "name": "Berlin",
+                "description": "",
+                "type": "others",
+                "user": {
+                  "id": "6396975",
+                  "firstName": "Cizenbayan",
+                  "lastName": "Elif Tanverdi",
+                  "gender": "female",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/6396975-ZBJMKM40PS0WKPEX.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/cizenbayan/list/berlin",
+                "canonicalUrl": "https://foursquare.com/cizenbayan/list/berlin",
+                "createdAt": 1322526782,
+                "updatedAt": 1531232254,
+                "photo": {
+                  "id": "506944c0e889b399a8865932",
+                  "createdAt": 1349076160,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/6396975_vuovVsQJ-SUI5lwGEQfY1CxzLhDKsV4c_pI1PcHa2RU.jpg",
+                  "width": 3072,
+                  "height": 1728,
+                  "user": {
+                    "id": "6396975",
+                    "firstName": "Cizenbayan",
+                    "lastName": "Elif Tanverdi",
+                    "gender": "female",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/6396975-ZBJMKM40PS0WKPEX.jpg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 156
+                },
+                "listItems": {
+                  "count": 195,
+                  "items": [
+                    {
+                      "id": "v50f55c5ee4b04f6ad02f9785",
+                      "createdAt": 1501666432
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "4ed9df8db6344371f63c8752",
+                "name": "Berlin spots to visit",
+                "description": "***2015 UPDATE*** \nBerlin has so many faces! In this list, we put the most interesting of them together: both classic and very alternative ones!",
+                "type": "others",
+                "user": {
+                  "id": "4359971",
+                  "firstName": "Leo",
+                  "lastName": "Z.",
+                  "gender": "male",
+                  "photo": {
+                    "prefix": "https://fastly.4sqi.net/img/user/",
+                    "suffix": "/32ITNBPZJ5WNEA05.jpg"
+                  }
+                },
+                "editable": false,
+                "public": true,
+                "collaborative": false,
+                "url": "/zozzow/list/berlin-spots-to-visit",
+                "canonicalUrl": "https://foursquare.com/zozzow/list/berlin-spots-to-visit",
+                "createdAt": 1322901389,
+                "updatedAt": 1474192261,
+                "photo": {
+                  "id": "4e9ae1feb803b562d67b106f",
+                  "createdAt": 1318773246,
+                  "prefix": "https://fastly.4sqi.net/img/general/",
+                  "suffix": "/F1QENVW3WDO02D1GB2YNX3V1Z0C1INJAJ5MT5BYMTIT3FWEV.jpg",
+                  "width": 612,
+                  "height": 612,
+                  "user": {
+                    "id": "7155607",
+                    "firstName": "Carlos",
+                    "lastName": "Asensio",
+                    "gender": "male",
+                    "photo": {
+                      "prefix": "https://fastly.4sqi.net/img/user/",
+                      "suffix": "/7155607_nBrEO0eD_0f6DGM0_iMGEYpCkaolazmZll6KyT45P0nRka2UHbyBfFRs6HuRDN1h0cezDbcQg"
+                    }
+                  },
+                  "visibility": "public"
+                },
+                "followers": {
+                  "count": 84
+                },
+                "listItems": {
+                  "count": 125,
+                  "items": [
+                    {
+                      "id": "v50f55c5ee4b04f6ad02f9785",
+                      "createdAt": 1405145598
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "hours": {
+        "status": "Closed until 10:00 AM tomorrow",
+        "richStatus": {
+          "entities": [],
+          "text": "Closed until 10:00 AM tomorrow"
+        },
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "dayData": [],
+        "timeframes": [
+          {
+            "days": "Mon–Sat",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "10:00 AM–7:00 PM"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "popular": {
+        "isOpen": false,
+        "isLocalHoliday": false,
+        "timeframes": [
+          {
+            "days": "Today",
+            "includesToday": true,
+            "open": [
+              {
+                "renderedTime": "11:00 AM–7:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Tue",
+            "open": [
+              {
+                "renderedTime": "Noon–7:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Wed–Thu",
+            "open": [
+              {
+                "renderedTime": "11:00 AM–7:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Fri",
+            "open": [
+              {
+                "renderedTime": "Noon–6:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sat",
+            "open": [
+              {
+                "renderedTime": "11:00 AM–7:00 PM"
+              }
+            ],
+            "segments": []
+          },
+          {
+            "days": "Sun",
+            "open": [
+              {
+                "renderedTime": "None"
+              }
+            ],
+            "segments": []
+          }
+        ]
+      },
+      "pageUpdates": {
+        "count": 0,
+        "items": []
+      },
+      "inbox": {
+        "count": 0,
+        "items": []
+      },
+      "parent": {
+        "id": "4cd4748494848cfaddc1dfb1",
+        "name": "Voo Store",
+        "location": {
+          "address": "Oranienstr. 24",
+          "lat": 52.50116203054585,
+          "lng": 13.421170687928225,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 52.50116203054585,
+              "lng": 13.421170687928225
+            }
+          ],
+          "postalCode": "10999",
+          "cc": "DE",
+          "city": "Berlin",
+          "state": "Berlin",
+          "country": "Deutschland",
+          "formattedAddress": ["Oranienstr. 24", "10999 Berlin", "Deutschland"]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d104951735",
+            "name": "Boutique",
+            "pluralName": "Boutiques",
+            "shortName": "Boutique",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_boutique_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "76417376"
+        }
+      },
+      "hierarchy": [
+        {
+          "name": "Voo Store",
+          "lang": "en",
+          "id": "4cd4748494848cfaddc1dfb1",
+          "canonicalUrl": "https://foursquare.com/v/voo-store/4cd4748494848cfaddc1dfb1"
+        }
+      ],
+      "attributes": {
+        "groups": [
+          {
+            "type": "price",
+            "name": "Price",
+            "summary": "€€",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Price",
+                "displayValue": "€€",
+                "priceTier": 2
+              }
+            ]
+          },
+          {
+            "type": "payments",
+            "name": "Credit Cards",
+            "summary": "No Credit Cards",
+            "count": 5,
+            "items": [
+              {
+                "displayName": "Credit Cards",
+                "displayValue": "No"
+              }
+            ]
+          },
+          {
+            "type": "outdoorSeating",
+            "name": "Outdoor Seating",
+            "summary": "Outdoor Seating",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Outdoor Seating",
+                "displayValue": "Yes"
+              }
+            ]
+          },
+          {
+            "type": "wifi",
+            "name": "Wi-Fi",
+            "count": 1,
+            "items": [
+              {
+                "displayName": "Wi-Fi",
+                "displayValue": "No"
+              }
+            ]
+          }
+        ]
+      },
+      "bestPhoto": {
+        "id": "512373a1e4b02b2abf7c657b",
+        "createdAt": 1361277857,
+        "source": {
+          "name": "Instagram",
+          "url": "http://instagram.com"
+        },
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/2421_EcQ7HoB8JWUYR_Z5q4N3-0Dr6fpOXCsRnPMxmftOz94.jpg",
+        "width": 612,
+        "height": 612,
+        "visibility": "public"
+      },
+      "colors": {
+        "highlightColor": {
+          "photoId": "512373a1e4b02b2abf7c657b",
+          "value": -15194080
+        },
+        "highlightTextColor": {
+          "photoId": "512373a1e4b02b2abf7c657b",
+          "value": -1
+        },
+        "algoVersion": 3
+      }
+    }
+  }
+}
