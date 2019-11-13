@@ -6,7 +6,9 @@ import {
   RatingMenu,
   Configure,
   RefinementList,
+  Stats,
 } from "react-instantsearch-dom"
+import { usePosition } from "use-position"
 import algoliasearch from "algoliasearch/lite"
 
 import Layout from "../components/layout"
@@ -33,12 +35,21 @@ const Hits = ({ hits }) => (
 )
 const IndexPage = () => {
   const CustomHits = connectHits(Hits)
+  const { latitude, longitude } = usePosition()
   return (
     <Layout>
       <SEO title="Home" />
       <InstantSearch searchClient={client} indexName="shops">
         <SearchBox />
-        <Configure aroundLatLngViaIP={true} getRankingInfo={true} />
+        {latitude && longitude ? (
+          <Configure
+            aroundLatLng={`${latitude}, ${longitude}`}
+            aroundLatLngViaIP={!latitude ? true : false}
+            getRankingInfo={true}
+          />
+        ) : (
+          <Configure aroundLatLngViaIP={true} getRankingInfo={true}></Configure>
+        )}
         <div className="content">
           <div className="sidebar">
             <h3>Rating</h3>
@@ -48,7 +59,16 @@ const IndexPage = () => {
             <h3>Groups</h3>
             <RefinementList attribute="attributes.groups.name" operator="and" />
           </div>
-          <CustomHits />
+          <main>
+            <Stats
+              translations={{
+                stats(nbHits) {
+                  return `${nbHits} results`
+                },
+              }}
+            />
+            <CustomHits />
+          </main>
         </div>
       </InstantSearch>
     </Layout>
